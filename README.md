@@ -16,6 +16,7 @@ Frameworks & Libraries
 - Font Awesome
 
 Web Tools
+- Github Search REST API
 - Node.js
 - NPM
 
