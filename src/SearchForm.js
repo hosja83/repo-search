@@ -28,7 +28,7 @@ const SearchForm = (props) => {
     event.preventDefault();
     
     if (isValidQuery) 
-      navigate(`/search/${query}`);
+      navigate(`/repo-search/${query}`);
   };
 
   // Dynamic styling for hiding/showing Error and search form header in results view

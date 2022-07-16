@@ -12,9 +12,9 @@ function Router() {
     */
     <Routes>
       <Route path='/' element={<SearchForm />}/>
-      <Route path='/search/' element={<SearchForm />}/>
-      <Route path='/search/:query' element={<Results />}/>
-      <Route path='/search/:query/:id' element={<ResultDetails />}/>
+      <Route path='/repo-search/' element={<SearchForm />}/>
+      <Route path='/repo-search/:query' element={<Results />}/>
+      <Route path='/repo-search/:query/:id' element={<ResultDetails />}/>
     </Routes>
    );
 }
