@@ -8,7 +8,7 @@ function Footer() {
       <span>Copyright &copy;</span>
       <span>{`${new Date().getFullYear()}`}</span>
       <a href="https://github.com/hosja83" rel="noopener noreferrer" target="_blank">Alhosainy Altaher</a>
-      <a href="https://github.com/hosja83" rel="noopener noreferrer" target="_blank">
+      <a href="https://github.com/hosja83/repo-search" rel="noopener noreferrer" target="_blank">
         <i className="fa-brands fa-github"></i>
       </a>
     </footer>
