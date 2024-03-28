@@ -8,9 +8,6 @@
 ![Screenshot (2813)](https://user-images.githubusercontent.com/43458977/190247551-39a834a1-bf2f-42d1-af0d-fe0f24421837.png)
 ![Screenshot (2818)](https://user-images.githubusercontent.com/43458977/190247611-a18ec819-555a-436f-93ac-1bd89c8ddee2.png)
 
-## Design
-![github-search-component-tree-design](https://user-images.githubusercontent.com/43458977/179494078-1b3c1dcd-c5bc-4399-8bc1-81c84a66eab6.jpg)
-
 ## Tools
 Languages
 - HTML
